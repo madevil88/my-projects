@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../src/index.ts"],"names":[],"mappings":";;AAAA,gCAA8B;AAE9B,iBAAiB;AACjB,gCAAgC;AAChC,sCAAsC;AAEtC,IAAI;AACJ,IAAI","sourcesContent":["import './styles/common.scss';\n\n// class Swiper {\n// private gallery: HTMLElement;\n// constructor(gallery: HTMLElement) {\n\n// }\n// }\n\n"]}

@@ -1,9 +1,9 @@
-import './styles/common.css';
+import './styles/common.scss';
 
-class Swiper {
-  // private gallery: HTMLElement;
-  // constructor(gallery: HTMLElement) {
+// class Swiper {
+// private gallery: HTMLElement;
+// constructor(gallery: HTMLElement) {
 
-  // }
-}
+// }
+// }
 
